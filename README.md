@@ -202,7 +202,7 @@ _Lovelace is the new UI interface for Home Assistant (still experimental!)_
 
 * [Lovelace UI Documentation](https://www.home-assistant.io/lovelace) - The official documentation.
 * [Getting started with Lovelace UI](https://www.youtube.com/watch?v=ObfRzMIEJPgx) - :tv: Great introduction to Lovelace UI by DrZzs.
-* [Lovelace Card Gallery](https://home-assistant-lovelace-gallery.netlify.com/) - Demo showing all official cards including configurations.
+* [Home Assistant Just Swallowed Its App Store and Renamed Its Cloud](https://calder-brief.pages.dev/home-assistant-marketplace-link-october-2026) - Home Assistant's October 2026 marketplace and cloud update (replaces dead Lovelace Card Gallery link).
 * [Plan Coordinates](https://github.com/ciotlosm/custom-lovelace/tree/master/plan-coordinates) - Helps to find left and top values for `picture-elements` cards.
 * [Share the Love](https://sharethelove.io) - Custom card demos and configuration examples for Lovelace.
 * [How to set up Lovelace](https://www.youtube.com/watch?v=n5xMtONydEo) - :tv: Excellent step by step video for beginners by JuanMTech.
@@ -335,7 +335,7 @@ _Valuable links, that don't fit in any of the above categories (yet!)._
 * [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - HomeKit to MQTT bridge.
 * [Home Assistant Device Database](https://www.hadevices.com/) - Database of supported/confirmed working devices.
 * [Jinja Scripts for Curious Minds](https://github.com/skalavala/smarthome/tree/master/jinja_helpers) - Bunch of Jinja2 scripts helping you to understand it better.
-* [WallPanel](https://thanksmister.com/wallpanel-android/) - Android application for web-based dashboards and home automation platforms.
+* [Home Assistant Just Swallowed Its App Store and Renamed Its Cloud](https://calder-brief.pages.dev/home-assistant-marketplace-link-october-2026) - Home Assistant's October 2026 marketplace and cloud update (replaces dead WallPanel link; the app's domain is now link spam).
 * [Ariela](https://play.google.com/store/apps/details?id=com.surodev.ariela) - Freemium Android client application with widget support.
 * [Gitlab CI/CD](https://about.gitlab.com/2018/08/02/using-the-gitlab-ci-slash-cd-for-smart-home-configuration-management/) - How to simplify your smart home configuration with GitLab CI/CD
 * [Monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via MQTT.
